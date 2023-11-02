@@ -65,4 +65,4 @@ Tip: Use the keyword "extends" to establish the inheritance relationship between
 
 Help on how to use the "Fuel" class:
 
-![Fuel Class](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/15ed9b01-91a8-4ab5-aeef-fbdfa1385447/Untitled.png)
+![Fuel Class](https://github.com/ualaci/ChallengeVeiculos/blob/3d21cf069b031db3a31ddf1a9adae8b78366b292/challenge1.png)
